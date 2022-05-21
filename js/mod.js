@@ -13,7 +13,7 @@ var mod = {
         ["eXPerience", "css/themes/experience.css"]
     ],
     layerNames: [
-        ["Ω-Lλγers",
+        ["José-Lλγers",
         [
             "JOSEGAMATHEMAPPERKME1",
             "23456789",
