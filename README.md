@@ -1,5 +1,4 @@
-# ωEngine v0.2.3
-### A engine made from Ω-Lλγers built for making mods
+# José Layers v1.0.0
+### A mod made by josé
 #### <a href='https://veprogames.github.io/omega-layers'>Ω-Lλγers</a> (the original) by VeproGames
-#### Play the engine <a href='https://jwklong.github.io/omega-engine'>now</a>
-##### Feel free to fork this, either to make your own mods or make pull requests with new features
+#### Play josé's mod <a href='https://jwklong.github.io/omega-engine'>now</a>
