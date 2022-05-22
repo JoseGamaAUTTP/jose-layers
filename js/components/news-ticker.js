@@ -5,9 +5,9 @@ Vue.component("news-ticker", {
             messages: [
                 "e",
                 "the layer names are spelling the word jose gama",
-                "weird themes? maybe not.",
-                "hey, josé's channel is gonna reach 1000 subs someday",
-                "when the imp- ...",
+                "weird themes? maybe not",
+                "hey, jose's channel is gonna reach 1000 subs someday",
+                "when the imp- bruh",
                 "basically there is a thi- (softcapped)",
                 "incremental thing i guess",
                 "omega layers but jose's version",
