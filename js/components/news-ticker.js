@@ -12,7 +12,7 @@ Vue.component("news-ticker", {
                 "incremental thing i guess",
                 "omega layers but joses version",
                 "mod.js: powering layers",
-                "i ran out of words on my ideas new videos :("
+                "i ran out of words on my ideas for my new videos :("
             ],
             currentMessage: "",
             messageIndex: -1
