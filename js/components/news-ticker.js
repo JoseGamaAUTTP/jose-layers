@@ -6,11 +6,11 @@ Vue.component("news-ticker", {
                 "e",
                 "the layer names are spelling the word jose gama",
                 "weird themes? maybe not",
-                "hey, jose's channel is gonna reach 1000 subs someday",
+                "hey, joses channel is gonna reach 1000 subs someday",
                 "when the imp- bruh",
                 "basically there is a thi- (softcapped)",
                 "incremental thing i guess",
-                "omega layers but jose's version",
+                "omega layers but joses version",
                 "mod.js: powering layers",
                 "i ran out of words on my ideas new videos :("
             ],
