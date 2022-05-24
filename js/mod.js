@@ -15,8 +15,8 @@ var mod = {
     layerNames: [
         ["José-Lλγers",
         [
-            "JOSEGAMATHEMAPPERKME1",
-            "23456789",
+            "JOSEGAMATHEMAPPERKME123E",
+            "4567890X",
             ["<span class='flipped-v'>Ω</span>", "<span class='flipped-v'>Ω</span><sup>2</sup>","<span class='flipped-v'>Ω</span><sup>3</sup>","<span class='flipped-v'>Ω</span><sup>2<sup>2</sup></sup>"]
         ]],
         ["Alphabet",
