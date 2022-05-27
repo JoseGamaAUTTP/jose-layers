@@ -17,7 +17,7 @@ var mod = {
         [
             "JOSEGAMATHEMAPPERKME123E",
             "4567890X",
-            ["<span class='flipped-v'>Ω</span>", "<span class='flipped-v'>Ω</span><sup>2</sup>","<span class='flipped-v'>Ω</span><sup>3</sup>","<span class='flipped-v'>Ω</span><sup>2<sup>2</sup></sup>"]
+            ["ψ", "ψ<sup>2</sup>","ψ<sup>3</sup>","ψ<sup>2<sup>2</sup></sup>"]
         ]],
         ["Alphabet",
         [
