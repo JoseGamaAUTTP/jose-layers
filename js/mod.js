@@ -1,7 +1,7 @@
 var mod = {
     primaryName: "Jose",
     secondaryName: "-Layers",
-    version: "1.0.0",
+    version: "1.0.1",
     engineVer: "0.2.3 P1", //DO NOT MODIFY
     debugMode: true,
     themes: [
